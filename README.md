@@ -59,6 +59,8 @@ plt.ylabel('Y-axis')
 plt.title('Simple Plot')
 plt.show()
 
+[You can view the notebook directly here](https://colab.research.google.com/github/Rashimanish/ML_Basics/blob/main/Matplotlib.ipynb)
+
 ##Introduction to Seaborn
 Seaborn is a statistical data visualization library based on Matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
 

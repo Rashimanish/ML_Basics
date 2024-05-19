@@ -11,7 +11,7 @@ Welcome to this beginner-friendly guide to machine learning using Python! This R
 4. [Introduction to Seaborn](#introduction-to-seaborn)
 5. [Collecting Datasets](#collecting-datasets)
 6. [Importing Data from Kaggle](#importing-data-from-kaggle)
-7. [Handling Missing Values](#handling-missing-values)
+
 
 ## Introduction to NumPy
 

@@ -99,5 +99,3 @@ import os
 
 #unzip data set
 !unzip <dataset-file>.zip
-
-

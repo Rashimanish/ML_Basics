@@ -17,13 +17,6 @@ Welcome to this beginner-friendly guide to machine learning using Python! This R
 
 NumPy is a powerful library for numerical computations in Python. It provides support for arrays, matrices, and many mathematical functions.
 
-### Basic Example
-```python
-import numpy as np
-
-## Creating a NumPy array
-array = np.array([1, 2, 3, 4, 5])
-print(array)
 
 # Performing basic operations
 print("Sum:", np.sum(array))

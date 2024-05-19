@@ -21,7 +21,7 @@ NumPy is a powerful library for numerical computations in Python. It provides su
 ```python
 import numpy as np
 
-# Creating a NumPy array
+## Creating a NumPy array
 array = np.array([1, 2, 3, 4, 5])
 print(array)
 
